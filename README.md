@@ -55,7 +55,7 @@ Then include it in your project's CMakeLists.txt file:
 
 ```cmake
 add_subdirectory(
-	Qwiic_OTOS_Library
+	PAA5160E1_Pico_Library
 )
 
 target_link_libraries(main
